@@ -1,4 +1,4 @@
-# [Dice-Dash-Race-to-100](https://dice-dash.netlify.app)https://dice-dash.netlify.app
+# [Dice-Dash-Race-to-100](https://dice-dash.netlify.app)
 
 Dice Dash: Race to 100
 
